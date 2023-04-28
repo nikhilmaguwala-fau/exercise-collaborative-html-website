@@ -7,3 +7,7 @@ body{
     height: 100px;
     width: 200px;
 }
+
+.example-class {
+    background-color: #ffffff
+}
